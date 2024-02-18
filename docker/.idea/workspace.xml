@@ -34,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/kacperformas/Sites/learn/docker/lesson_4",
+    "last_opened_file_path": "/Users/kacperformas/Sites/learn/docker/lesson_5",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -45,6 +45,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson_5" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/lesson_4" />
       <recent name="$PROJECT_DIR$/lesson_3" />
     </key>
@@ -69,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708171807585</updated>
       <workItem from="1708171808682" duration="5796000" />
-      <workItem from="1708251269108" duration="1882000" />
+      <workItem from="1708251269108" duration="4245000" />
     </task>
     <servers />
   </component>
