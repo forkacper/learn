@@ -16,6 +16,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.3.2/bin/php" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -34,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/kacperformas/Sites/learn/docker/lesson_5",
+    "last_opened_file_path": "/Users/kacperformas/Sites/learn/docker",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -45,8 +48,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lesson_5" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lesson_5" />
       <recent name="$PROJECT_DIR$/lesson_4" />
       <recent name="$PROJECT_DIR$/lesson_3" />
     </key>
@@ -71,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708171807585</updated>
       <workItem from="1708171808682" duration="5796000" />
-      <workItem from="1708251269108" duration="4245000" />
+      <workItem from="1708251269108" duration="5060000" />
     </task>
     <servers />
   </component>
